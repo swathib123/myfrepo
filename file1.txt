@@ -1,5 +1,2 @@
 hi..............hello world
 add line another one
-line3
-line4
-file5
