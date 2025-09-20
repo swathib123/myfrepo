@@ -1,3 +1,4 @@
 this is file3
 added a new line
 line3
+file4
